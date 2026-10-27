@@ -1,0 +1,14 @@
+{
+  "name": "code-steps",
+  "version": "1.0.0",
+  "description": "Tested, paste-ready code steps for Zapier, Make and n8n: phones, names, dates and time zones, money, line items.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
